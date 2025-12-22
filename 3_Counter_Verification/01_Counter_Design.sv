@@ -14,10 +14,8 @@ module counter #(parameter width)(
         q<=q+1;
       else
         q<=q-1;
-    end
-    
-  end
-  
+    end    
+  end 
 endmodule
     
 
